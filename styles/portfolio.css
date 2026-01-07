@@ -51,14 +51,14 @@
 
 header{
     background-color: #fff8f3; 
-    background: url("../images/developer.png") , url("../images/header_bg.png");, #fff8f3;
+    background: url("../images/developer.png") , url("../images/header_bg.png"); , #fff8f3;
     background-position: 23px 38px,bottom right;
     background-repeat: no-repeat;
     padding-top: 50px;
 }
 
 nav{
-    width: 66%;
+    width: 71%;
     max-width: 1140px;
     /* border: 1px solid red; */
     margin: 0px auto;
@@ -121,7 +121,7 @@ nav .menu a{
 }
 
 #about .about-container{
-    width: 66%;
+    width: 71%;
     max-width: 1140px;
     margin: 0 auto;
     text-align: center;
@@ -146,7 +146,7 @@ nav .menu a{
 }
 
 #skills .skills-container{
-    width: 66%;
+    width: 71%;
     max-width: 1140px;
     margin: 0 auto;
 }
@@ -183,7 +183,7 @@ nav .menu a{
 
 #resume .resume-container{
 
-    width: 66%;
+    width: 71%;
     max-width: 1140px;
     margin: 113px auto 0;
     display: flex;
@@ -232,7 +232,7 @@ footer{
 }
 
 footer .footer-container {
-    width: 66%;
+    width: 71%;
     max-width: 1139px;
     margin: 0 auto;
     display: flex;
